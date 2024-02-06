@@ -1,5 +1,6 @@
 **
 !braingoo.c
+!interpreter.c
 !int_stack.c
 !build.sh
 !.gitignore
