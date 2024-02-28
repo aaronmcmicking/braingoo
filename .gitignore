@@ -2,7 +2,7 @@
 !braingoo.c
 !interpreter.c
 !compiler.c
-!int_stack.c
+!int_stack.h
 !build.sh
 !.gitignore
 !README.md
